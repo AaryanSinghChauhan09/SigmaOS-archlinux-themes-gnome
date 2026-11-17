@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-themes-gnome"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-themes-gnome component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
